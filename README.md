@@ -1,5 +1,4 @@
-# proyecto
-Proyecto sprint 7
+
 
 Esta es una aplicación web desarrollada con Streamlit que permite visualizar datos de vehículos en venta.
 
